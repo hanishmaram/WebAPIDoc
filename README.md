@@ -13,4 +13,6 @@ config.SetDocumentationProvider(new XmlDocumentationProvider(
 
 7. In project properties under Output check XML documentation file and add App_Data/XmlDocument.xml.
 
+8. Navigate to http://localhost:58554/help/index to get the help page.
+
 
